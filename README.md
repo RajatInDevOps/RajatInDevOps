@@ -3,7 +3,7 @@
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif">
 
-- 📫 How to reach me **rajatsharma3016@gmail.com**
+📫 How to reach me **rajatsharma3016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
